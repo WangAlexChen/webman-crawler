@@ -1,5 +1,5 @@
 {
-    "name": "wg/webman-crawler",
+    "name": "wang-ge/webman-crawler",
     "description": "webmanCrawler 是用 PHP 编写的多进程网络爬虫框架，具有良好的开放性、高可扩展性",
     "type": "library",
     "require": {
@@ -10,7 +10,7 @@
     "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
-            "Wg\\WebmanCrawler\\": "src/"
+            "WangGe\\": "src/"
         }
     },
     "authors": [

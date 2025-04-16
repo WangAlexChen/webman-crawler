@@ -1,8 +1,8 @@
 <?php
-namespace Wg\WebmanCrawler\Queue;
+namespace WangGe\Queue;
 
-use Wg\WebmanCrawler\Client;
-use Wg\WebmanCrawler\Server;
+use WangGe\Lib\Client;
+use WangGe\Lib\Server;
 use Workerman\Worker;
 
 class MemoryQueue implements QueueInterface

@@ -1,5 +1,5 @@
 <?php
-namespace Wg\WebmanCrawler\Lib;
+namespace WangGe\Lib;
 
 class Helper
 {

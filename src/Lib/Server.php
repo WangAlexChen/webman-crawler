@@ -1,5 +1,5 @@
 <?php
-namespace Wg\WebmanCrawler\Lib;
+namespace WangGe\Lib;
 
 use Workerman\Worker;
 

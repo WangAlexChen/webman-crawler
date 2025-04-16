@@ -1,5 +1,5 @@
 <?php
-namespace Wg\WebmanCrawler\Queue;
+namespace WangGe\Queue;
 
 interface QueueInterface
 {

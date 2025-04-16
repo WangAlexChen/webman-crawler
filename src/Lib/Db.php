@@ -11,7 +11,7 @@
  * @link      http://www.workerman.net/
  * @license   http://www.opensource.org/licenses/mit-license.php MIT License
  */
-namespace Wg\WebmanCrawler\Lib;
+namespace WangGe\Lib;
 
 /**
  * 数据库类

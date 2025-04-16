@@ -1,13 +1,14 @@
 <?php
-namespace Wg\WebmanCrawler;
+namespace WangGe;
 
 
 use Exception;
 use Workerman\Worker;
 use GuzzleHttp\Client;
+use WangGe\Lib\Helper;
 use Workerman\Lib\Timer;
 
-use Wg\WebmanCrawler\Lib\Helper;
+
 class WebmanCrawler
 {
     const VERSION = '1.0.4';
